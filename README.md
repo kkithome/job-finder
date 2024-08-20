@@ -1,0 +1,1 @@
+This project uses web scraping to extract importnat information for internships listings on Indeed to make organizing the results easier. With a few modifications this can be altered to work for other job listing websites as well!
